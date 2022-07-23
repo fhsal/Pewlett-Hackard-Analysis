@@ -39,7 +39,7 @@ Unfortunately, there are not enough staff ( ~2100) who are eligible for mentorsh
 
 ## Number of retirement eligible
 
-![img](https://github.com/fhsal/Pewlett-Hackard-Analysis/blob/main/images/Retirement_info.png)
+![img](https://github.com/fhsal/Pewlett-Hackard-Analysis/blob/main/images/retirement_info.png)
 
 
 ## Retiring titles
@@ -53,7 +53,7 @@ Unfortunately, there are not enough staff ( ~2100) who are eligible for mentorsh
 
 ## mentorship_eligibility 
 
-![img](https://github.com/fhsal/Pewlett-Hackard-Analysis/blob/main/images/membership_eligibility.png)
+![img](https://github.com/fhsal/Pewlett-Hackard-Analysis/blob/main/images/mentorship_eligibility.png)
 
 
 
